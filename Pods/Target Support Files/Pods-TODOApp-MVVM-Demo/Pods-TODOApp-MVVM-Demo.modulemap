@@ -1,0 +1,6 @@
+framework module Pods_TODOApp_MVVM_Demo {
+  umbrella header "Pods-TODOApp-MVVM-Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
